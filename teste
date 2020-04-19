@@ -1,0 +1,7 @@
+nome = "Junior"
+idade = 31
+hobbye = "Programar"
+print(f" Olá, meu nome é {nome}, tenho {idade} anos e gosto de {hobbye}")
+
+teste = input("Olá, vamos nos conhecer?!... Qual é o seu nome?: ")
+print(f"Legal {teste}, meu nome é CPU")
